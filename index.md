@@ -440,3 +440,7 @@ Please check the "Setup" page of
 [the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+
+For MATLAB, you will need to have a local install and a license to participate in the workshop.
+University of Nebraska particpants can use MATLAB on the Holland Computing Center's Swan cluster through a web-browser with no
+additional software needed. 
